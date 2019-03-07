@@ -1,2 +1,5 @@
 title: Access to Insurance
 theme: jekyll-theme-cayman
+
+pages_list:       
+  About: '/about/'
